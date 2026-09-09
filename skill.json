@@ -1,0 +1,13 @@
+{
+  "name": "genpark-strict-two-phase-locking-ss2pl-deadlock-skill",
+  "version": "1.0.0",
+  "description": "Strict Two-Phase Locking (SS2PL) concurrency manager with shared/exclusive lock upgrades and DFS wait-for graph cycle deadlock detection.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "two-phase-locking",
+    "ss2pl",
+    "deadlock-detection",
+    "database-transactions"
+  ]
+}
